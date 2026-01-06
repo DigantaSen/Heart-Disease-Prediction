@@ -2,6 +2,10 @@
 
 A machine learning web application that predicts the risk of heart disease based on various health parameters using Logistic Regression.
 
+## 🌐 Live Demo
+
+**Try the app here:** [https://heart-disease-prediction-bydiganta.streamlit.app/](https://heart-disease-prediction-bydiganta.streamlit.app/)
+
 ## 🎯 Overview
 
 This application uses a trained Logistic Regression model to predict whether a person has a high or low risk of heart disease. The model is deployed using Streamlit, providing an interactive and user-friendly interface for real-time predictions.
