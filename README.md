@@ -45,7 +45,7 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 
 3. **Install required packages**
 ```bash
-pip install streamlit pandas joblib scikit-learn
+pip install -r requirements.txt
 ```
 
 ## 💻 Usage
@@ -113,6 +113,7 @@ HeartDisease/
 ├── logistic_regression_heart.pkl       # Trained model
 ├── scaler.pkl                          # Feature scaler
 ├── columns.pkl                         # Expected columns
+├── requirements.txt                    # Python dependencies
 └── README.md                           # Project documentation
 ```
 
